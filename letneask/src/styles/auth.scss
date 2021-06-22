@@ -51,8 +51,8 @@
     >img {
       align-self: center;
     }
-    h2 {
 
+    h2 {
       font-size: 24px;
       margin: 64px 0 24px;
       font-family: 'Poppins', sans-serif;
@@ -73,7 +73,16 @@
         width: 100%;
       }
     }
-  }
+    p {
+      font-size: 14px;
+      color: #737380;
+      margin-top: 18px;
+
+      a {
+        color: #e559f9;
+      }
+    }
+  } 
 
   .create-room{
     margin-top: 64px;
