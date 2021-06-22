@@ -1,7 +1,8 @@
+import { Home } from "./services/Home";
 
 function App() {
   return (
-    <h1>hello word</h1>
+    <Home />
     );
 }
 
